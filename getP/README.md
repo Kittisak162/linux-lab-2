@@ -10,7 +10,7 @@ Get Photo Instagram
 ## 1.ติดตั้งโปรแกรมจำเป็น
 ```sh
 (sudo) pip install lxml
-sudo pip install BeautifulSoup4
+(sudo) pip install BeautifulSoup4
 ```
 ## 2.เริ่มใช้งานโปรแกรม ให้ clone project
 ```sh
