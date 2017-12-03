@@ -9,10 +9,8 @@ Get Photo Instagram
 
 ## 1.ติดตั้งโปรแกรมจำเป็น
 ```sh
-pip install --user cookiecutter
-pip install --user virtualenv
-sudo apt-get install beautifulSoup4
-sudo apt-get install python-lxml
+(sudo) pip install lxml
+sudo pip install BeautifulSoup4
 ```
 ## 2.เริ่มใช้งานโปรแกรม ให้ clone project
 ```sh
