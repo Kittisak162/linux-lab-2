@@ -2,23 +2,6 @@
 
 Get Photo Instagram
 
-
-# Installation
-
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
-
-Simply run:
-
-    $ pipsi install .
-
-
-# Usage
-
-To use it:
-
-    $ getP --help
-
 # เกี่ยวกับโปรเเกรม
 ... โปรแกรมนี้สามารถดึงรูปภาพใน Instagram ออกมาได้ เพียงเเค่ใส่ ไอดีของ IG มาให้ถูกต้อง
 
